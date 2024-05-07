@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>COVID-19 Data Analysis Project</title>
-</head>
-<body>
+
     <h1>COVID-19 Data Analysis Internship Project</h1>
     <p>This project is designed to test your SQL and data analysis skills in a real-world context. You are encouraged to be creative in your approach and to seek guidance and assistance as needed throughout the internship.</p>
     
@@ -30,5 +23,4 @@
     
     <h2>Instructions</h2>
     <p>Good luck, and enjoy your journey into the world of data analysis!</p>
-</body>
-</html>
+
